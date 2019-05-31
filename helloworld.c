@@ -1,4 +1,4 @@
-// (działa tylko na Windowsach)
+// (Windows only)
 // > gcc hello.c -o hello.exe -m32
 // > hello
 // Hello World!
